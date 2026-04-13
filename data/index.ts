@@ -209,16 +209,16 @@ export const navItems = [
     {
       id: 1,
       img: "/git.svg",
-      href: "https://github.com/AkashJana18",
+      href: "https://github.com/devrahul7",
     },
     {
       id: 2,
       img: "/twit.svg",
-      href: "https://x.com/Akashj_01",
+      href: "https://x.com/rahul6xdev",
     },
     {
       id: 3,
       img: "/link.svg",
-      href: "https://www.linkedin.com/in/akashjana",
+      href: "https://www.linkedin.com/in/rahul6xdev",
     },
   ];
