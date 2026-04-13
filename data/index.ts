@@ -1,9 +1,9 @@
 export const navItems = [
     { name: "About", link: "#about" },
-    // { name: "Resume", link: "https://drive.google.com/file/d/1udileHqcrbD09gjuFpUZlHgpOajw3UU_/view?usp=sharing" },
+    { name: "Resume", link: "https://drive.google.com/file/d/1YRx1uHjCZtZ8S5KuVdr7Y1Ahml3oOgCy/view?usp=drive_link" },
     { name: "Projects", link: "#projects" },
     //{ name: "Testimonials", link: "#testimonials" },
-    { name: "Blogs", link: "https://dev.to/akashjana"},
+    { name: "Blogs", link: "https://dev.to/rahul6xdev"},
     { name: "Contact", link: "#contact" },
   ];
   
@@ -74,69 +74,53 @@ export const navItems = [
   export const projects = [
         {
       id: 1,
-      title: "CopilotMate",
-      des: "CopilotMate is an open-source personal assistant designed to streamline productivity with an intuitive interface and a suite of essential tools.",
-      img: "/copilotmate.png",
+      title: "recyclehub",
+      des: "In recyclehub users can get paid by selling recyclable wastes.They can book request and a waste collecetor be assigned to their doorstep for collection of recyclable waste.",
+      img: "/recyclehub.jpg" ,
       iconLists: ["/next.svg",  "/tail.svg", "/ts.svg", "/fm.svg"],
-      link: "https://youtu.be/qPVRPUH8ewU?si=PmCxfpnI30lgJRd0",
+      link: "https://github.com/devrahul7/recyclehubweb ",
     },
     {
       id: 2,
-      title: "Statify - Landing page",
-      des: "A modern and minimal lading page with excellent UI/UX.",
-      img: "/statify.png",
+      title: "ecosajha",
+      des: "A modern app made using kotlin.Here you can sale you recyclable waste and earn money also help in recycling.",
+      img: "/ecosajha.png",
       iconLists: ["/next.svg","/re.svg", "/tail.svg", "/ts.svg"],
-      link: "https://statify-delta-mauve.vercel.app/",
-    },
-    {
-      id: 3,
-      title: "Cryptack - Cryptocurrency tracker",
-      des: "Compare different cryptocurrencies, view their graphs—prices, total volumes, market cap, etc.",
-      img: "/p2.png",
-      iconLists: ["/re.svg", "/css.svg", "/js.svg", "/chartjs.svg", "/fm.svg", "/mui.svg"],
-      link: "cryptack.netlify.app/",
+      link: "https://github.com/devrahul7/ecosajhakotlin.git",
     },
   
-    {
-      id: 4,
-      title: "Mystery Message",
-      des: "Mystery Message allows users to send and receive anonymous messages, ensuring privacy and fostering honest communication without revealing identities.",
-      img: "/p1.png",
-      iconLists: ["/next.svg","/re.svg", "/tail.svg", "/ts.svg","/mongo.svg"],
-      link: "github.com/AkashJana18/nextjs-project",
-    },
   ];
   
   export const testimonials = [
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+        "Collaborating with Sandesh was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Sandesh's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Sandesh is the ideal partner.",
+      name: "Rudraksha Shah",
+      title: "Director of Shah Corporations ",
     },
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+        "Collaborating with Sandesh was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Sandesh's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Sandesh is the ideal partner.",
+      name: "Rudraksha Shah",
+      title: "Director of Shah Corporations ",
     },
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+        "Collaborating with Sandesh was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Sandesh's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Sandesh is the ideal partner.",
+      name: "Rudraksha Shah",
+      title: "Director of Shah Corporations ",
     },
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+        "Collaborating with Sandesh was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Sandesh's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Sandesh is the ideal partner.",
+      name: "Rudraksha Shah",
+      title: "Director of Shah Corporations ",
     },
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+        "Collaborating with Sandesh was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Sandesh's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Sandesh is the ideal partner.",
+      name: "Rudraksha Shah",
+      title: "Director of Shah Corporations ",
     },
   ];
   
@@ -177,28 +161,22 @@ export const navItems = [
     {
       id: 1,
       title: "Pretember Challenge",
-      desc: "Developed CopilotMate, personal AI assistant which integrates tools like a to-do list, ai-enabled spreadsheet, expense tracker and other features.",
+      desc: "Developed Recyclehub, where user can sell the wastes of their house and generate a good source of money.",
       className: "md:col-span-2",
       thumbnail: "/exp1.svg",
     },
-    {
-      id: 2,
-      title: "Open Source",
-      desc: "Developed a JSON Field Renaming Component in Golang for Instill AI, implementing logic for renaming fields with conflict resolution. Additionally, created comprehensive unit tests to ensure its functionality and robustness",
-      className: "md:col-span-2",
-      thumbnail: "/exp2.svg",
-    },
-    {
-      id: 3,
-      title: "Freelance Project",
-      desc: "Developed a web application for a client, handling both design and implementation using React.",
-      className: "md:col-span-2",
-      thumbnail: "/exp3.svg",
-    },
+,
+    // {
+    //   id: 3,
+    //   title: "Freelance Project",
+    //   desc: "Developed a web application for a client, handling both design and implementation using React.",
+    //   className: "md:col-span-2",
+    //   thumbnail: "/exp3.svg",
+    // },
     {
       id: 4,
       title: "Team Led",
-      desc: "Led a team of students in creating a project for a hackathon, focusing on frontend development and project management.",
+      desc: "Led a team of colleagues in creating a project for a hackathon, focusing on frontend development and project management on college assignments",
       className: "md:col-span-2",
       thumbnail: "/exp4.svg",
     },

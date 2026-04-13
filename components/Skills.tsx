@@ -34,7 +34,7 @@ function Skills() {
   return (
     <div className="my-10 py-10 ">
       <h1 className="heading">
-        Skills &amp; <span className="text-purple">Technologies</span>
+        Skills &amp; <span className="text-purple"></span>
       </h1>
       <div className="flex justify-center align-middle">
         <IconCloud images={images} />

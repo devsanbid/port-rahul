@@ -16,7 +16,7 @@ const Hero = () => {
       text: "High-performance",
     },
     {
-      text: "Web",
+      text: "Web & Mobile",
       className: "text-purple dark:text-purple",
     },
     {
@@ -62,7 +62,7 @@ const Hero = () => {
             words={words}
           />
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi, I&apos;m Rahul, a proficient Web Developer and AI Enthusiast.
+            Hi, I&apos;m Rahul, a proficient Web & Mobile Developer.
           </p>
 
           <a href="https://contra.com/rahul6xdev" target="_blank" className="cursor-pointer">
