@@ -55,7 +55,7 @@ const Hero = () => {
             className="rounded-full w-80 h-80 border-2 border-white-100 mb-5"
           />
           <h2 className="uppercase tracking-widest text-xs text-center text-blue-100 max-w-80">
-            Rahul Shahi
+            Rahul Shah
           </h2>
           <TypewriterEffect
             className="text-center md:text-5xl lg:text-6xl my-5"
@@ -65,7 +65,7 @@ const Hero = () => {
             Hi, I&apos;m Rahul, a proficient Web Developer and AI Enthusiast.
           </p>
 
-          <a href="https://contra.com/akash_jana" target="_blank" className="cursor-pointer">
+          <a href="https://contra.com/rahul6xdev" target="_blank" className="cursor-pointer">
             <MagicButton
               title="Hire me on Contra"
               icon={<FaLocationArrow />}
