@@ -165,7 +165,7 @@ export const navItems = [
       className: "md:col-span-2",
       thumbnail: "/exp1.svg",
     },
-,
+
     // {
     //   id: 3,
     //   title: "Freelance Project",
